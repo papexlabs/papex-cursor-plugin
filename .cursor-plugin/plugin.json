@@ -1,0 +1,30 @@
+{
+  "name": "papex",
+  "displayName": "Papex",
+  "version": "0.19.0",
+  "description": "Prepare private research drafts for your review in Papex and read public Papex research records. The agent cannot sign or publish for you.",
+  "author": {
+    "name": "Papex Labs Ltd",
+    "email": "hello@papex.org"
+  },
+  "homepage": "https://papex.org",
+  "repository": "https://github.com/papexlabs/papex-cursor-plugin",
+  "license": "Apache-2.0",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "research",
+    "science",
+    "provenance",
+    "scientific-records",
+    "drafts",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "research",
+    "science",
+    "provenance",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "papex": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@papexlabs/mcp@0.19.0"
+      ]
+    }
+  }
+}
