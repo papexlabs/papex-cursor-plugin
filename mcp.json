@@ -5,7 +5,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@papexlabs/mcp@0.19.0"
+        "@papexlabs/mcp@0.19.1"
       ]
     }
   }

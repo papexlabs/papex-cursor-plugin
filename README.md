@@ -24,7 +24,7 @@ To add only the server by hand, put this in `~/.cursor/mcp.json`:
   "mcpServers": {
     "papex": {
       "command": "npx",
-      "args": ["-y", "@papexlabs/mcp@0.19.0"]
+      "args": ["-y", "@papexlabs/mcp@0.19.1"]
     }
   }
 }
